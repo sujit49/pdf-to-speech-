@@ -65,3 +65,50 @@ Edit
 python app.py
 
 
+🧠 How It Works
+Select a PDF file
+
+Choose a page range (e.g., 1-5)
+
+Click Read PDF Aloud to listen to the content
+
+If the PDF is scanned, it will automatically use OCR
+
+Use Export Audio to save speech as output_audio.mp3
+
+Optional: Toggle background music while reading
+
+Control speech rate and language via GUI
+
+📸 Screenshots
+(You can add screenshots here)
+
+💡 Future Improvements
+Add summarization toggle with output preview
+
+Support for EPUB and DOCX
+
+Export as WAV format
+
+GUI-based audio editor
+
+❗ Note
+Make sure Tesseract OCR is installed and added to your system path for OCR to work correctly.
+
+The background_music.mp3 file must exist in the project directory to play background music.
+
+📄 License
+This project is licensed under the MIT License.
+
+🤝 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+⭐ Show Your Support
+If you like this project, consider starring it on GitHub or sharing it with others!
+
+---
+
+Let me know if you'd like this turned into a downloadable `.md` file or customized further (e.g., author name, demo video, GitHub repo link, etc.).
+
+
+
