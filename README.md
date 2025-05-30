@@ -63,6 +63,9 @@ bash
 Copy
 Edit
 python app.py
+
+
+How it Works 
 🧠 How It Works
 Select a PDF file
 
